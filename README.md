@@ -1,5 +1,3 @@
-Cardboard Java
+MoleculeVR
 =====================
-Copyright (c) 2014 Google Inc.  All rights reserved.
-
-[https://developers.google.com/cardboard/android/get-started](https://developers.google.com/cardboard/android/get-started)
+A virutal reality project that allows users to visualize 3D molecules and their structure using Google Cardboard and the Android platform. Conducted under the supervision of Dr. Andre Schleife, UIUC.
